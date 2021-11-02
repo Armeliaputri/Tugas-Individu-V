@@ -1,5 +1,6 @@
 1. Buatlah flowchart dengan menggunakan flowgorithm berdasarkan Setiap rumus Luas dan 
 Keliling Bangunan datar, Jalankan sesuai dengan inputan kalian sampai menemukan hasil.
+2. Kemudian ketik ulang SC pada flowgorithm ke Vs- code, Jalakan sampai menemukan Hasil.
 
 persegi
 
